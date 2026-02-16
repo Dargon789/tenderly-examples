@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@tenderly/hardhat-tenderly": "^2.0.0",
-    "axios": "^1.8.3",
+    "axios": "^1.13.5",
     "dotenv": "^16.0.3"
   }
 }
